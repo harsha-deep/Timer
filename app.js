@@ -20,6 +20,6 @@ function displayTime(second){
   `; 
 }
 
-functon endTime(){
+function endTime(){
   timeH.innerHTML = 'Time out';
 }
